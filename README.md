@@ -252,7 +252,7 @@ The inclusion of genre and studio tier adds meaningful predictive power. VIF val
 
 ### Dashboard 1 — Industry Performance & Audience Insights
 
-![Industry Performance & Audience Insights Dashboard](charts/dashboard1.png)
+![Industry Performance & Audience Insights Dashboard](dashboards/industry_performance.png)
 
 An executive-level overview consolidating the core EDA findings into a single interactive view. Features include:
 - **KPI strip** — Total Revenue ($485.82B), Avg Budget ($31.18M), Median ROI (1.06), Avg Rating (3.45), Total Movies (5,365)
@@ -266,7 +266,7 @@ An executive-level overview consolidating the core EDA findings into a single in
 
 ### Dashboard 2 — Movie Revenue Drivers & Financial Performance
 
-![Movie Revenue Drivers & Financial Performance Dashboard](charts/dashboard2.png)
+![Movie Revenue Drivers & Financial Performance Dashboard](dashboards/revenue_drivers.png)
 
 A focused view directly supporting the regression and hypothesis testing findings:
 - **Budget vs Revenue (Log Scale)** — overlaid trend lines for Major Studios (R² = 0.48) vs Independent Studios (R² = 0.39)
